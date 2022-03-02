@@ -5,3 +5,4 @@ dependecies:
    -ipykernel
    -numpy
    -pandas
+   -matplotlib
