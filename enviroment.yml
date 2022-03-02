@@ -1,0 +1,7 @@
+dependecies:
+  -python=3
+  -pip:
+   -spacy
+   -ipykernel
+   -numpy
+   -pandas
